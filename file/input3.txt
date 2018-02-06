@@ -1,0 +1,63 @@
+Exception Address:0x3faaad38
+Exception Code:0xc0000094
+Module: 0x3f980000 Size:7581696 C:\Program Files\MiniTool Partition Wizard Free 9.1\PartitionWizard.exe 
+Module: 0x76e20000 Size:1753088 C:\Windows\SYSTEM32\ntdll.dll 
+Module: 0x76c00000 Size:1175552 C:\Windows\system32\kernel32.dll 
+Module: 0xfce30000 Size:442368 C:\Windows\system32\KERNELBASE.dll 
+Module: 0x70610000 Size:3170304 C:\Program Files\MiniTool Partition Wizard Free 9.1\QtCore4.dll 
+Module: 0x76d20000 Size:1024000 C:\Windows\system32\USER32.dll 
+Module: 0xfeeb0000 Size:421888 C:\Windows\system32\GDI32.dll 
+Module: 0xfe450000 Size:57344 C:\Windows\system32\LPK.dll 
+Module: 0xfd5d0000 Size:827392 C:\Windows\system32\USP10.dll 
+Module: 0xfe480000 Size:651264 C:\Windows\system32\msvcrt.dll 
+Module: 0xfe600000 Size:2101248 C:\Windows\system32\ole32.dll 
+Module: 0xfed80000 Size:1236992 C:\Windows\system32\RPCRT4.dll 
+Module: 0xfe520000 Size:897024 C:\Windows\system32\ADVAPI32.dll 
+Module: 0xfe430000 Size:126976 C:\Windows\SYSTEM32\sechost.dll 
+Module: 0xfd3d0000 Size:315392 C:\Windows\system32\WS2_32.dll 
+Module: 0xfef20000 Size:32768 C:\Windows\system32\NSI.dll 
+Module: 0x72480000 Size:864256 C:\Program Files\MiniTool Partition Wizard Free 9.1\MSVCP90.dll 
+Module: 0x740c0000 Size:643072 C:\Program Files\MiniTool Partition Wizard Free 9.1\MSVCR90.dll 
+Module: 0x674c0000 Size:10690560 C:\Program Files\MiniTool Partition Wizard Free 9.1\QtGui4.dll 
+Module: 0xfd530000 Size:622592 C:\Windows\system32\COMDLG32.dll 
+Module: 0xfe970000 Size:462848 C:\Windows\system32\SHLWAPI.dll 
+Module: 0xfcea0000 Size:655360 C:\Windows\WinSxS\amd64_microsoft.windows.common-controls_6595b64144ccf1df_5.82.7600.16385_none_a44af8ec57f961cf\COMCTL32.dll 
+Module: 0xfd6a0000 Size:14180352 C:\Windows\system32\SHELL32.dll 
+Module: 0xfe810000 Size:880640 C:\Windows\system32\OLEAUT32.dll 
+Module: 0xfef80000 Size:188416 C:\Windows\system32\IMM32.dll 
+Module: 0xfd420000 Size:1085440 C:\Windows\system32\MSCTF.dll 
+Module: 0xf9aa0000 Size:241664 C:\Windows\system32\WINMM.dll 
+Module: 0xf8470000 Size:458752 C:\Windows\system32\WINSPOOL.DRV 
+Module: 0x71070000 Size:1171456 C:\Program Files\MiniTool Partition Wizard Free 9.1\QtNetwork4.dll 
+Module: 0xe5030000 Size:17530880 C:\Program Files\MiniTool Partition Wizard Free 9.1\QtWebKit4.dll 
+Module: 0xfbd60000 Size:49152 C:\Windows\system32\VERSION.dll 
+Module: 0xfa380000 Size:253952 C:\Program Files\MiniTool Partition Wizard Free 9.1\ikernel.dll 
+Module: 0xfabf0000 Size:32768 C:\Program Files\MiniTool Partition Wizard Free 9.1\idriver.dll 
+Module: 0xfccb0000 Size:61440 C:\Windows\system32\CRYPTBASE.dll 
+Module: 0xfd330000 Size:626688 C:\Windows\system32\CLBCatQ.DLL 
+Module: 0xfc650000 Size:94208 C:\Windows\system32\CRYPTSP.dll 
+Module: 0xfc350000 Size:290816 C:\Windows\system32\rsaenh.dll 
+Module: 0xfcd60000 Size:81920 C:\Windows\system32\RpcRtRemote.dll 
+Module: 0xfa500000 Size:135168 C:\Windows\System32\vds_ps.dll 
+Module: 0xfb560000 Size:352256 C:\Windows\system32\uxtheme.dll 
+Module: 0xfa530000 Size:53248 C:\Program Files\MiniTool Partition Wizard Free 9.1\imageformats\qgif4.dll 
+Module: 0xfc5f0000 Size:344064 C:\Windows\system32\mswsock.dll 
+Module: 0xfc470000 Size:372736 C:\Windows\system32\DNSAPI.dll 
+Module: 0xf9510000 Size:159744 C:\Windows\system32\IPHLPAPI.DLL 
+Module: 0xf94f0000 Size:45056 C:\Windows\system32\WINNSI.DLL 
+Module: 0xf90b0000 Size:98304 C:\Windows\system32\dhcpcsvc.DLL 
+Module: 0xf7dd0000 Size:69632 C:\Windows\system32\dhcpcsvc6.DLL 
+Module: 0xf7a60000 Size:32768 C:\Windows\system32\rasadhlp.dll 
+Module: 0xfb150000 Size:307200 C:\Windows\system32\MMDevAPI.DLL 
+Module: 0xfb5c0000 Size:1228800 C:\Windows\system32\PROPSYS.dll 
+Module: 0xf9350000 Size:241664 C:\Windows\system32\wdmaud.drv 
+Module: 0x74b30000 Size:24576 C:\Windows\system32\ksuser.dll 
+Module: 0xfa8a0000 Size:36864 C:\Windows\system32\AVRT.dll 
+Module: 0xfd150000 Size:1929216 C:\Windows\system32\SETUPAPI.dll 
+Module: 0xfd0b0000 Size:221184 C:\Windows\system32\CFGMGR32.dll 
+Module: 0xfd130000 Size:106496 C:\Windows\system32\DEVOBJ.dll 
+Module: 0xf9990000 Size:323584 C:\Windows\system32\AUDIOSES.DLL 
+Module: 0xfa7f0000 Size:40960 C:\Windows\system32\msacm32.drv 
+Module: 0xfa570000 Size:98304 C:\Windows\system32\MSACM32.dll 
+Module: 0xfa7e0000 Size:36864 C:\Windows\system32\midimap.dll 
+===============================================

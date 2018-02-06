@@ -1,0 +1,42 @@
+>sfile1.txt is a synchronous file.
+
+it is so bcoz the heavy file coming at first to display will be displayed and the rest will take time..i.e.,it will wait.
+
+>afile1.txt is an asynchronous file.
+
+it is so bcoz the heavy file coming at first to display will be displayed at last bcoz the lighter weight file will get the priority prior to heavy file for displaying..This conceptis known as "callback".
+
+>In callback(),we passes a function as a parameter..
+
+>afile1.js is fully programmed in c++ language.
+
+>Here all process are independent process,not a dependency process(two process are in link).
+
+------------------
+1.Here we have installed the pug.
+2.now we have created a dir ectory named pug inside nodejs 
+3.and again created a file named as "views".
+4.create notepad first_view.pug
+
+5.save the file.
+6.cd ..
+>c:/nodejs/pug
+7.notepad exp1.js //engine is pug//concept is clled as templating
+8.run it
+9. install nodemon ,due to this our server will restart for every program.
+10.SYNTAX:- npm install nodemon --save -g
+11.come back again to c:/nodejs/pug
+12. run it by...  nodemon exp1.js
+
+
+>JADE is the older name of PUG.
+By the help of pug, we can create an html template.
+
+>Pug is a templating engine for Express.
+
+**##>In pug,we can use "if loop" in the html code and in condition we can pass a "json code"..
+REST:-(Representational transfer state)
+
+>UDP does not send any acknowledgement package.
+>e.g:= trivial ftp
+>UDP is mainly used on remote installation of OS.
